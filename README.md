@@ -14,6 +14,7 @@ As a **full-stack developer**, I enjoy designing intuitive user experiences, bui
 
 ## 🚀 Featured Projects  
 
+- **[VaultDB](https://vaultdb.ai)** - A privacy-preserving database platform that enables secure data collaboration and analysis. 
 - **AI Data Analysis Chatbot** – A chatbot that answers questions and generates graphs from CSV data using the OpenAI API.  
 - **PocketEYE** – Engineered a robot assisting visually impaired individuals by gauging proximity using an ultrasonic sensor and speaker system.  
 - **Workday Automation Script** – Automated check-in and check-out on Workday using Selenium WebDriver for accurate work-hour tracking.  
