@@ -9,7 +9,8 @@ I'm **Dev Chechi**, an undergraduate student at [Northeastern University](https:
 
 ## Contact
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/devmchechi/).  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/devmchechi/).
+- Portfolio at [devmchechi.vercel.app](https://devmchechi.vercel.app/).  
 - Email me at <chechi.d@northeastern.edu>.  
 
 Feel free to reach out! 
